@@ -1,5 +1,16 @@
 # HR Attrition & Workforce Insights Dashboard – Power BI
 
+## 📸 Dashboard Preview
+
+### Main Dashboard
+<img width="1226" height="686" alt="image" src="https://github.com/user-attachments/assets/3e1ea242-2125-438d-974d-708775021e34" />
+
+### Key Influencers View & Tenure vs Attrition
+<img width="442" height="676" alt="image" src="https://github.com/user-attachments/assets/6617ca99-aedb-46e6-ae16-64b8997182bf" />
+
+<img width="441" height="677" alt="image" src="https://github.com/user-attachments/assets/e8d6971d-c6e2-4496-bb84-cb8411a2a195" />
+
+
 ## 📌 Project Overview
 
 This project is an interactive **HR Analytics dashboard** built in **Power BI** to help HR teams
