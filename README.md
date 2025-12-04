@@ -3,7 +3,7 @@
 ## 📸 Dashboard Preview
 
 ### Main Dashboard
-<img width="1226" height="682" alt="image" src="https://github.com/user-attachments/assets/823f2281-ec8b-4c3a-8aad-920b1f5d2e23" />
+<img width="1225" height="685" alt="image" src="https://github.com/user-attachments/assets/3a26c0cf-46cf-44a0-8fd7-e6869a40fa7c" />
 
 
 ### Key Influencers View & Tenure vs Attrition
